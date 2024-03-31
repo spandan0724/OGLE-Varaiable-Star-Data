@@ -1,1 +1,3 @@
 # OGLE-Varaiable-Star-Data
+
+The data extracted from OGLE's website provides comprehensive insights into variable stars, organized into three distinct subfolders. The first folder, "Text Variable stars data," houses textual information elucidating various aspects of variable stars. The second folder, "Visual Data of variable stars," comprises graphical representations showcasing the behavior and characteristics of these stars over time. Lastly, the third folder contains numerical data presented in Excel sheet format, facilitating in-depth analysis and quantitative exploration of the observed variables. Together, these folders offer a multi-dimensional view of variable stars, empowering researchers to delve into their dynamics and unravel celestial mysteries.
